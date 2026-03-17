@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Fun House（feat. KAME、TUT-1026、HOZE）",
+  "base_artist": "HOME MADE 家族",
+  "createdAt": "2026-03-17T08:19:13.725500Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FUN HOUSE feat.KAME(from KAME & L.N.K),TUT-1026,HOZE(from SMELLS GOOD)",
+      "artist": "HOME MADE 家族",
+      "has_synced": false,
+      "path": "select/pl_01_FUN_HOUSE_feat.KAME(from_KAME_&_L.N.K),TUT-1026,HOZE(from_SMELLS_GOOD)_HOME_MADE_家族.txt"
+    }
+  ]
+}
